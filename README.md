@@ -4,8 +4,6 @@
 
 this is game of X1(japanese old PC).
 
-7つの秘宝を集めて、魔王を倒すゲーム。
-
 ## memo
 
 題名:「アルケー」
@@ -16,8 +14,10 @@ this is game of X1(japanese old PC).
 
 転載元：電波新聞社　「マイコンBASICマガジン」 1991年3月号
 
-## movie / screenshot
+## movie
 
-https://www.youtube.com/watch?v=_GBbFiMiVU8
+https://www.youtube.com/watch?v=wxYXOGUGSNM 
+
+## screenshot
 
 ![x1_aruke](https://user-images.githubusercontent.com/5597377/131799336-93d746ed-045f-4adf-932a-4998e1179086.png)
